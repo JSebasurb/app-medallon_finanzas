@@ -1,0 +1,6 @@
+*.DS_Store
+# Tus datos financieros NO deben subirse a un repositorio público
+data/**/*.csv
+data/**/*.json
+!data/**/.gitkeep
+.ipynb_checkpoints/
